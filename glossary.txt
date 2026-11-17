@@ -6,13 +6,13 @@ Import:
   Your definition:
 
 Clone:
-  Your definition:
+  Your definition: git Clone creates a local copy of a remote remote repository
 
 Fork:
   Your definition:
 
 Branch:
-  Your definition:
+  Your definition: a branch in git is a way you can make changes to the files without changing the files located in the main branch
 
 Pull request:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Skyler Gushulak
